@@ -4,5 +4,9 @@ I have created a comprehensive guide for information security and privacy for a 
 
 ## Sample Images from Document
 
-![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(657).png)
-![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(656).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/titlepage.png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/Screenshot%20(661).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/Screenshot%20(662).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/Screenshot%20(663).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/Screenshot%20(664).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/InformationSecurityAndPrivacy/blob/master/readme_images/Screenshot%20(665).png)
